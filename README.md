@@ -57,7 +57,8 @@ Multi-tenant SaaS on **Ash + Phoenix + Oban** — healthcare booking, restaurant
 <div align="center">
 
 <a href="mailto:mohammed.nagieeb@gmail.com"><img src="https://img.shields.io/badge/Email-mohammed.nagieeb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- CONTACT: LinkedIn / X go here -->
+<a href="https://www.linkedin.com/in/nagieeb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/nagieeb"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 <sub>Elixir by default · Zig when it has to be fast · Arabic first</sub>
 
