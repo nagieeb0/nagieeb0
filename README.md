@@ -25,7 +25,7 @@ Dentist → growth lead → product engineer. Eight years selling into the denta
 
 | | |
 |---|---|
-| **15K → 120K users** | Grew [Plstka](https://play.google.com/store/apps/details?id=com.plstka) as Growth Lead and investor, and cut CAC from EGP 14 to about EGP 4. |
+| **38K registered users** | Grew [Plstka](https://play.google.com/store/apps/details?id=com.plstka) to 50K+ downloads on Google Play as Growth Lead and investor, and cut CAC from EGP 14 to about EGP 4. |
 | **1,400+ downloads** | Across my packages on Hex. |
 | **861,948 test cases** | The official Unicode conformance suite, all passing in [bidi](https://github.com/nagieeb0/bidi). |
 | **134K+ records** | Scraped and enriched for market research, including 14,533 dental clinics in Egypt. |
