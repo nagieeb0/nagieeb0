@@ -5,6 +5,8 @@
 
 **I turn ideas into products that sell — built to scale from day one.**
 
+Dentist → growth lead → product engineer. Eight years selling into the dental market, an MBA, and the code to ship it myself.
+
 <br/>
 
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
@@ -19,6 +21,17 @@
 
 ---
 
+### 📈 By the numbers
+
+| | |
+|---|---|
+| **15K → 120K users** | Grew [Plstka](https://play.google.com/store/apps/details?id=com.plstka) as Growth Lead and investor, and cut CAC from EGP 14 to about EGP 4. |
+| **1,400+ downloads** | Across my packages on Hex. |
+| **861,948 test cases** | The official Unicode conformance suite, all passing in [bidi](https://github.com/nagieeb0/bidi). |
+| **134K+ records** | Scraped and enriched for market research, including 14,533 dental clinics in Egypt. |
+| **Real X-rays** | Reverse-engineered a dental X-ray sensor and captured radiographs without the vendor's software. |
+| **BEAM on Android** | Ran a full Elixir app on a real Android phone. |
+
 ### ⚡ How I work
 
 - **From idea to launch in weeks, not quarters.** I model the business once in Ash, and the API, admin, auth and policies come from that one model, so the first version ships fast.
@@ -30,6 +43,7 @@
 
 | Product | What it is |
 |---|---|
+| [**Imdent**](https://imdent.com) | Clinic operating system for dentists: SEO profiles and websites, bookings, WhatsApp and AI. |
 | [**JevPilot**](https://github.com/nagieeb0/jevpilot-site) | AI browser agent for Chrome: the extension, the website, and a paid credits service (Polar → OpenRouter). |
 | **Keshfa** | Real-time booking marketplace for doctors, clinics and hospitals in Saudi Arabia. |
 | **Ghadwa** | Multi-tenant SaaS for restaurants. |
